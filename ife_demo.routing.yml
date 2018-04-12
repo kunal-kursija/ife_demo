@@ -1,0 +1,7 @@
+ife.demo:
+  path: '/ife-demo'
+  defaults:
+    _form: '\Drupal\ife_demo\Form\IfeDemo'
+    _title: 'The Demo: Inline Form Errors'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,7 @@
+name: Ife Demo
+type: module
+description: Demonstrates Inline Form Errors In Drupal 8.
+core: 8.x
+package: Ife Demo
+dependencies:
+  - inline_form_errors
